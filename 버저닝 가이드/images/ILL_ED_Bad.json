@@ -1,0 +1,56 @@
+{ "skeleton": { "images": "//crownedturtle/Crownedturtle/화이트데이/일러스트_ILL/S01/엔딩_ED/배드엔딩(ED_Bad)/images/" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "i_3,4,5,6", "bone": "root", "attachment": "i_3,4,5,6" },
+	{ "name": "i_4,5", "bone": "root", "attachment": "i_4,5" },
+	{ "name": "i_3,4", "bone": "root", "attachment": "i_3,4" },
+	{ "name": "i_1,2", "bone": "root", "attachment": "i_1,2" },
+	{ "name": "tint_for_text", "bone": "root", "attachment": "tint_for_text", "blend": "multiply" },
+	{ "name": "t_6", "bone": "root", "attachment": "t_6" },
+	{ "name": "t_5", "bone": "root", "attachment": "t_5" },
+	{ "name": "t_4", "bone": "root", "attachment": "t_4" },
+	{ "name": "t_3", "bone": "root", "attachment": "t_3" },
+	{ "name": "t_2", "bone": "root", "attachment": "t_2" },
+	{ "name": "t_1", "bone": "root", "attachment": "t_1" }
+],
+"skins": {
+	"default": {
+		"i_3,4,5,6": {
+			"i_3,4,5,6": { "x": 720, "y": -1260, "width": 1442, "height": 2522 }
+		},
+		"i_4,5": {
+			"i_4,5": { "x": 718.5, "y": -1470, "width": 121, "height": 234 }
+		},
+		"i_3,4": {
+			"i_3,4": { "x": 736, "y": -1417, "width": 342, "height": 1010 }
+		},
+		"i_1,2": {
+			"i_1,2": { "x": 720, "y": -1260, "width": 1442, "height": 2522 }
+		},
+		"tint_for_text": {
+			"tint_for_text": { "x": 720, "y": -1260, "width": 1442, "height": 2522 }
+		},
+		"t_6": {
+			"t_6": { "x": 338.5, "y": -1318, "width": 223, "height": 62 }
+		},
+		"t_5": {
+			"t_5": { "x": 483, "y": -1193.5, "width": 508, "height": 61 }
+		},
+		"t_4": {
+			"t_4": { "x": 580.5, "y": -1068.5, "width": 701, "height": 61 }
+		},
+		"t_3": {
+			"t_3": { "x": 667.5, "y": -944, "width": 885, "height": 62 }
+		},
+		"t_2": {
+			"t_2": { "x": 472.5, "y": -818, "width": 489, "height": 60 }
+		},
+		"t_1": {
+			"t_1": { "x": 322, "y": -693, "width": 204, "height": 62 }
+		}
+	}
+},
+"animations": { "animation": {} }
+}
